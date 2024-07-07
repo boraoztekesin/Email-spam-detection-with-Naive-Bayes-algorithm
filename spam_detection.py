@@ -1,18 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## BBM 409 - Programming Assignment 4
-# 
-# * You can add as many cells as you want in-between each question.
-# * Please add comments to your code to explain your work.  
-# * Please add Markdown cells to answer the (non-coding) questions in the homework text. You can, however, refer to the outputs of code cells without adding them as images to the Markdown cell unless you are requested to do otherwise.
-# * Please be careful about the order of runs of cells. It is likely that you will be running the cells in different orders, however, they will be evaluated in the order they appear. Hence, please try running the cells in this order before submission to make sure they work.    
-# * Please refer to the homework text for any implementation detail. Though you are somewhat expected to abide by the comments in the below cells, they are mainly just provided for guidance. That is, as long as you are not completely off this structure and your work pattern is understandable and traceable, it is fine. For instance, you do not have to implement a particular function within a cell just because the comment directs you to do so.
-# * This document is also your report. Show your work.
-
-# ###  Insert personal information
+# ###  Prepared by
 # Cavit Bora Öztekeşin
-# 2200356855
 
 # ### 1. Introduction
 # The goal of this assignment is to implement a Naive Bayes classifier to categorize emails as spam or ham based on their textual content. The Naive Bayes algorithm, known for its simplicity and efficiency in text classification tasks, will be used to predict whether an email is spam or not. The dataset provided contains emails labeled as either spam (1) or ham (0).
